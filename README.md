@@ -32,4 +32,4 @@ Acesse http://localhost:8080/swagger para visualizar a documentação da API e t
 - TaskManager.Application: Camada de serviço que contém a lógica de negócios.
 - TaskManager.Domain: Define os modelos e interfaces usados na aplicação.
 - TaskManager.Infrastructure: Implementa a persistência de dados.
-TaskManager.Persistence: Configurações de migração e contexto de banco de dados.
+- TaskManager.Persistence: Configurações de migração e contexto de banco de dados.
