@@ -22,10 +22,6 @@ Navegue até a pasta raiz do projeto e execute o comando
     
 Isso fará com que a API e o banco de dados SQL Server seja iniciados.
 
-Na sequencia, acesse: http://localhost:8080/swagger
-
-Isso iniciará a API e o banco de dados SQL Server. Após a inicialização, a aplicação estará disponível em http://localhost:8080.
-
 ## Uso da API
 
 Acesse http://localhost:8080/swagger para visualizar a documentação da API e testar as diferentes rotas e métodos disponíveis.
